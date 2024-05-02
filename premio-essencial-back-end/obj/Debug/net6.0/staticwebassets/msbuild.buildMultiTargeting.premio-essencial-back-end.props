@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\premio-essencial-back-end.props" />
+</Project>
